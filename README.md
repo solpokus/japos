@@ -1,2 +1,2 @@
-# japos
-Japos (Java JPA with PostgreSQL)
+# JaPos
+JaPos (Java JPA with PostgreSQL)
